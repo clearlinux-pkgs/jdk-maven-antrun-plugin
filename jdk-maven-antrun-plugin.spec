@@ -4,7 +4,7 @@
 #
 Name     : jdk-maven-antrun-plugin
 Version  : 1.8
-Release  : 1
+Release  : 2
 URL      : http://repo2.maven.org/maven2/org/apache/maven/plugins/maven-antrun-plugin/1.8/maven-antrun-plugin-1.8-source-release.zip
 Source0  : http://repo2.maven.org/maven2/org/apache/maven/plugins/maven-antrun-plugin/1.8/maven-antrun-plugin-1.8-source-release.zip
 Summary  : No detailed summary available
